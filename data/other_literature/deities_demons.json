@@ -1,0 +1,155 @@
+{
+"deities": [
+{
+"name": "An (Anu)",
+"role": "God of the heavens, supreme ruler of the gods",
+"symbol": "Horned crown",
+"significance": "Often invoked as the divine authority behind kingship and cosmic order."
+},
+{
+"name": "Enlil",
+"role": "God of wind, air, and storms; ruler of the earth",
+"symbol": "Mountain",
+"significance": "Enlil grants power to kings and controls destiny; his word is law among gods and humans."
+},
+{
+"name": "Enki (Ea)",
+"role": "God of wisdom, water, crafts, and creation",
+"symbol": "Flowing streams, fish",
+"significance": "Enki is the protector of humanity, often aiding mortals with advice, magic, and clever solutions."
+},
+{
+"name": "Ninhursag (Ki, Ninmah)",
+"role": "Earth mother goddess, goddess of fertility and creation",
+"symbol": "The Omega symbol or the cow",
+"significance": "She assists in the creation of humanity and is invoked for childbirth and healing."
+},
+{
+"name": "Inanna (Ishtar)",
+"role": "Goddess of love, fertility, war, and the morning/evening star",
+"symbol": "Eight-pointed star, lion",
+"significance": "A central figure in myth, Inanna is known for her descent into the underworld and her dual nature of love and war."
+},
+{
+"name": "Utu (Shamash)",
+"role": "God of the sun, truth, and justice",
+"symbol": "Solar disc, rays of light",
+"significance": "Utu illuminates the earth, judges moral disputes, and reveals hidden truths."
+},
+{
+"name": "Nanna (Sin)",
+"role": "God of the moon, time, and wisdom",
+"symbol": "Crescent moon",
+"significance": "Nanna governs the lunar calendar and is often invoked in dream interpretations and omens."
+},
+{
+"name": "Ninurta",
+"role": "Warrior god, god of agriculture and the hunt",
+"symbol": "Plow, mace",
+"significance": "Ninurta defends the gods against chaos and monsters; protector of farmers."
+},
+{
+"name": "Dumuzi (Tammuz)",
+"role": "God of shepherds, fertility, and the cycle of life and death",
+"symbol": "Sheep, date palm",
+"significance": "Associated with the seasonal cycles, Dumuzi's descent into the underworld marks the changing of seasons."
+},
+{
+"name": "Ereshkigal",
+"role": "Queen of the underworld",
+"symbol": "Throne, underworld gates",
+"significance": "Ereshkigal rules over the dead and presides over the land of no return."
+},
+{
+"name": "Ningal",
+"role": "Goddess of reeds and consort of Nanna (Sin)",
+"symbol": "Reeds, moon imagery",
+"significance": "Ningal is a protective mother goddess, linked to temple building and fertility."
+},
+{
+"name": "Gibil",
+"role": "God of fire",
+"symbol": "Flame",
+"significance": "Gibil purifies through fire and is invoked in rituals involving fire as a cleansing force."
+},
+{
+"name": "Nisaba",
+"role": "Goddess of writing, scribes, and grain",
+"symbol": "Writing tablet",
+"significance": "Patron of scribes and wisdom, Nisaba records the divine decrees of the gods."
+},
+{
+"name": "Marduk",
+"role": "God of creation, magic, and order; patron deity of Babylon",
+"symbol": "Snake-dragon (Mushhushshu)",
+"significance": "Marduk rises to prominence in later traditions, defeating chaos to bring order to the cosmos."
+}
+],
+"demons": [
+{
+"name": "Lamashtu",
+"role": "Malevolent demoness who threatens pregnant women and infants",
+"appearance": "Lion-headed woman with bird talons, holding snakes",
+"countermeasure": "Protective amulets invoking the god Pazuzu."
+},
+{
+"name": "Pazuzu",
+"role": "Demon of winds; a protective figure against Lamashtu and other evil forces",
+"appearance": "Winged demon with a lion’s face, serpent tail, and talons",
+"significance": "Despite being a demon, Pazuzu is invoked for protection against worse spirits."
+},
+{
+"name": "Gallu",
+"role": "Underworld demons who drag souls into the netherworld",
+"significance": "Feared entities, often appearing in descent myths, such as Inanna's journey."
+},
+{
+"name": "Utukku",
+"role": "Spirits of the dead, often malevolent",
+"significance": "Restless souls who can cause harm; exorcisms are performed to banish them."
+},
+{
+"name": "Alu",
+"role": "Evil spirit of the night",
+"significance": "Alu creeps into homes and terrifies sleepers; associated with nightmares and darkness."
+},
+{
+"name": "Edimmu",
+"role": "Spirits of those who died improperly or were not given proper burials",
+"significance": "These restless spirits torment the living, seeking vengeance or peace."
+},
+{
+"name": "Asag",
+"role": "Chaotic demon causing disease and pestilence",
+"significance": "Asag is defeated by Ninurta in myth; his presence symbolizes disorder and sickness."
+},
+{
+"name": "Lilitu (Lilith)",
+"role": "Female demon of the night",
+"appearance": "Often depicted with wings and bird talons",
+"significance": "Lilitu seduces and harms men while threatening women and children."
+},
+{
+"name": "Rabisu",
+"role": "Ambush demons who lurk in shadows and desolate places",
+"significance": "Known for stalking and attacking unsuspecting victims."
+},
+{
+"name": "Kulullu",
+"role": "Fish-men, protective beings",
+"appearance": "Hybrid of human and fish",
+"significance": "Guardians of knowledge and ritual purity, often associated with water deities."
+},
+{
+"name": "Sebitti",
+"role": "Group of warrior gods or spirits",
+"significance": "They assist in battle and are invoked for divine retribution."
+},
+{
+"name": "Lilu and Ardat Lili",
+"role": "Male and female night spirits",
+"significance": "Lilu haunts men, while Ardat Lili disturbs dreams and desires."
+}
+]
+}
+

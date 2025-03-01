@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ensi"
+version = "0.1.0"
+description = ""
+authors = ["jared-neumann <jared@neumannsworkshop.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+pydantic = "^2.10.3"
+pydantic-ai = "^0.0.12"
+logfire = "^2.7.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
